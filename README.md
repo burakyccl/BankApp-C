@@ -13,7 +13,7 @@ Basic Console Bank Application Written In C.
 > All of the features works without problem.
 
 #### Most Important Aspect
-  - File create/open; read/write
+  - Txt File create/open; read/write
   
   
 
