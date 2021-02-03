@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558791980 source:c:\proje\banka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1558791980 source:c:\code database\c projects\vize-final proje\banka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
